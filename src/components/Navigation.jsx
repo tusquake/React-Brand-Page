@@ -11,7 +11,7 @@ const Navigation = () => {
               <li><a href="#">About</a></li>
               <li><a href="#">Contact</a></li>
             </ul>
-      <button>login : Tushar</button>
+      <button>login : Tushar Seth</button>
     </nav>
   );
 };
